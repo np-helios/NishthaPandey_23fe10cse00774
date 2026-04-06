@@ -9,6 +9,7 @@ This project reproduces the main commands and examples from the Real Python tuto
 
 - `realpython_nltk_tutorial.py` runs the tutorial examples in sequence.
 - `requirements.txt` lists the Python packages needed.
+- `basic_genai_commands.md` contains very basic GenAI prompts and use cases.
 
 ## How to Run
 
