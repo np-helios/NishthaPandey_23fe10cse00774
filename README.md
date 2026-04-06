@@ -1,4 +1,6 @@
-# NLTK Real Python Tutorial Project
+# NishthaPandey_23fe10cse00774
+
+## NLTK Real Python Tutorial Project
 
 This project reproduces the main commands and examples from the Real Python tutorial:
 [Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/).
@@ -32,10 +34,3 @@ python3 realpython_nltk_tutorial.py
 - Dispersion plots
 - Frequency distribution
 - Collocations
-
-## Submission Tip
-
-For your teacher:
-
-- Run the script and show the terminal output
-- Push this whole folder to GitHub
